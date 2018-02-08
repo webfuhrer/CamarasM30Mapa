@@ -1,0 +1,8 @@
+{
+    "name": "CamarasM30Mapa",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "luis",
+    "contributors": [],
+    "dependencies": {}
+}
